@@ -1,0 +1,25 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "colebemis",
+    "csandman",
+    "ericfennis",
+    "karsa-mistmere",
+    "ryck"
+  ],
+  "use-cases": [],
+  "tags": [
+    "triangles",
+    "fractal",
+    "relic",
+    "legend",
+    "gaming",
+    "wisdom",
+    "courage",
+    "power"
+  ],
+  "categories": [
+    "shapes",
+    "gaming"
+  ]
+}
