@@ -1,0 +1,20 @@
+{
+  "$schema": "../icon.schema.json",
+  "contributors": [
+    "ryck"
+  ],
+  "use-cases": [],
+  "tags": [
+    "piggy bank",
+    "savings",
+    "save",
+    "clay",
+    "pot",
+    "coin",
+    "money",
+    "bank"
+  ],
+  "categories": [
+    "finance"
+  ]
+}
